@@ -19,4 +19,10 @@
 
   Node :-> from frontend you can handle the login form . you can upload multiple images in a time.
   you can get a jsonwebtoken. but here we are not using jsonwebtoken but creating it from backend with authentication or authorization.
+
+  How to start ->
+  * I've use vs code for IDE.
+  *cd frontend -> npm install ->npm run dev.
+  *open a new terminal in vs code.
+  *cd backend -> npm install ->npm run dev
   
